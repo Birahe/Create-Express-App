@@ -1,11 +1,11 @@
 {
-  "name": "@hestian/create-project",
+  "name": "@hestian/create-express-app",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
   "bin": {
     "@hestian/create-project": "bin/create-project",
-    "create-project": "bin/create-project"
+    "create-express-app": "bin/create-project"
   },
   "publishConfig": {
     "access": "public"
